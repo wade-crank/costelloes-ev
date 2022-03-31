@@ -1289,6 +1289,16 @@ section {
   color: #fff;
 }
 
+.pricing .wrapper {
+  margin:0 auto;
+  width: 2em; 
+  height: 2em;/* how big your img is PX EM % etc */
+  text-align:center;
+}
+
+/* .pricing .wrapper .centering_ {background-image:url(../img/products/Black\ on\ Transparent.png);
+  background-repeat:no-repeat;} */
+
 /*--------------------------------------------------------------
 # Frequently Asked Questions
 --------------------------------------------------------------*/

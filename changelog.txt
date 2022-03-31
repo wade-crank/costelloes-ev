@@ -1,15 +1,53 @@
-Version: 2.1.0
-  - Updated Bootstrap to version 4.5.0
-  - Updated the PHP Email Form library to version 2.0 with reCaptcha support
-  - Aded inner-page.html tempalte
-  - Added smooth scroll on page load with hash links in the url
-  - Updated all outdated third party vendor libraries to their latest versions
-  - Other small fixes and improvements
-  
-Version: 2.0.0
-  - The template was rebuilt from scratch with the latest Bootstrap version (4.4.1)
-  - Added SMPTP support for the contact form script (Pro)
-  - Added NodeJS NPM Development version (Pro unlimited & Membership members)
-  
-Version: 1.0.0
-- Initial Release
+<div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="box featured">
+            <h3>PodPoint</h3>
+            <!-- <h4><sup>£</sup>29<span> / total</span></h4> -->
+            <ul>
+              <li>Home Charging</li>
+              <li>Commercial Charging</li>
+              <li>Workplace Charging</li>
+              <li>Full Catalouge <a href="https://pod-point.com/" ><strong>here</strong></a></li>
+            </ul>
+            <!-- <div class="btn-wrap">
+              <a href="#" class="btn-buy">Buy Now</a>
+            </div> -->
+          </div>
+        </div>
+
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="box featured">
+              <h3>EO Charing</h3>
+              <!-- <h4><strong>EO</strong></h4> -->
+              <ul>
+                <li>EO Mini Pro</li>
+                <li>EO Smart Home</li>
+                <li>EO Genius</li>
+                <li>EO Cloud</li>
+                <li>EO Basic</li>
+                <li>Full Catalouge <a href="https://www.eocharging.com/eo-home-charging-catalogue" ><strong>here</strong></a></li>
+                <!-- <li class="na">Massa ultricies mi</li> STRIKEOUT-->
+              </ul>
+              <!-- <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div> -->
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+            <div class="box featured">
+              <h3>Rolec EV</h3>
+              <!-- <h4><sup>£</sup>19<span> / total</span></h4> -->
+              <ul>
+                <li>WallPod: EV HomeSmart</li>
+                <li>WallPod: EV Socket</li>
+                <li>WallPod: EV Tethered Lead</li>
+                <li>WallPod: EV MultiMode</li>
+                <li>WallPod: EV Ready</li>
+                <li>Full Catalouge <a href="https://www.eocharging.com/eo-home-charging-catalogue"><strong>here</strong></a></li>
+                <!-- <li class="na">Massa ultricies mi</li> STRIKEOUT -->
+              </ul>
+              <!-- <div class="btn-wrap">
+                <a href="#" class="btn-buy">Buy Now</a>
+              </div> -->
+            </div>
+          </div>  
