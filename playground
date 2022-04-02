@@ -1,0 +1,62 @@
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-3"> <span>Hottest Giveaways</span> <span class="custom-badge text-uppercase">See More</span> </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="d-flex flex-row align-items-center time"> <i class="fa fa-clock-o"></i> <small class="ml-1">3 Days</small> </div> <img src="https://i.imgur.com/suuFVrQ.png" width="20">
+                </div>
+                <div class="text-center"> <img src="https://i.imgur.com/TbtwkyW.jpg" width="250"> </div>
+                <div class="text-center">
+                    <h5>Amazon Echo</h5> <span class="text-success">$200 value</span>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="d-flex flex-row align-items-center time"> <i class="fa fa-clock-o"></i> <small class="ml-1 text-primary">00:02:13</small> </div> <img src="https://i.imgur.com/suuFVrQ.png" width="20">
+                </div>
+                <div class="text-center"> <img src="https://i.imgur.com/bUWshC0.jpg" width="250"> </div>
+                <div class="text-center">
+                    <h5>Kruve Coffee Filters</h5> <span class="text-success">$80 value</span>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="d-flex flex-row align-items-center time"> <i class="fa fa-clock-o"></i> <small class="ml-1">2 Days</small> </div> <img src="https://i.imgur.com/suuFVrQ.png" width="20">
+                </div>
+                <div class="text-center"> <img src="https://i.imgur.com/aTqSahW.jpg" width="250"> </div>
+                <div class="text-center">
+                    <h5>Apple watch 2.0</h5> <span class="text-success">$360 value</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- PRODUCTS -->
+
+
+<div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+<div class="box featured">
+  <h3>Easee One</h3>
+  <!-- <h4><sup>£</sup>29<span> / total</span></h4> -->
+  <ul>
+    <li>
+      <li><div class="wrapper">
+        <img src="./assets/img/products/Easee_Black.png" alt="My Image" class="centering_">
+      </div></li>
+
+      <li>Fully dynamic charging power 1.4–7.4 kW</li>
+  </li>
+    <!-- <li>Fi <a href="https://myenergi.com/product/zappi/" ><strong>here</strong></a></li> -->
+  </ul>
+  <div class="btn-wrap">
+    <a href="https://costelloes-ev.mybigcommerce.com/easee-one/" class="btn-buy">Shop</a>
+  </div>
+</div>
+</div> 

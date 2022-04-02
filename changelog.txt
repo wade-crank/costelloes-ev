@@ -51,3 +51,100 @@
               </div> -->
             </div>
           </div>  
+
+
+          <section id="pricing" class="pricing section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Featured Prodcuts</h2>
+          <!-- <p>Text description</p> -->
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+            <div class="box featured">
+              <h3>PodPoint</h3>
+              <!-- <h4><sup>£</sup>29<span> / total</span></h4> -->
+              <ul>
+                <li>
+                  <li><div class="wrapper">
+                    <img src="./assets/img/products/PodPoint_Socket__99908.png" alt="My Image" class="img-container">
+                  </div></li>
+    
+                  <li>Solo 3 - 7kW Universal Smart Charger with standard installation</li>
+              </li>
+                <!-- <li>Fi <a href="https://myenergi.com/product/zappi/" ><strong>here</strong></a></li> -->
+              </ul>
+              <div class="btn-wrap">
+                <a href="https://costelloes-ev.mybigcommerce.com/solo-3-7kw-universal-smart-charger-with-standard-installation/" class="btn-buy">Shop</a>
+              </div>
+            </div>
+        </div> 
+
+        <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="box featured">
+            <h3>HyperVolt</h3>
+            <!-- <h4><sup>£</sup>29<span> / total</span></h4> -->
+            <ul>
+              <li>
+                <li><div class="wrapper">
+                  <img src="./assets/img/products/Hypervolt_Black.png" alt="My Image" class="centering_">
+                </div></li>
+  
+                <li>7kw Smart Charger - 5M tether - including standard installation</li>
+            </li>
+              <!-- <li>Fi <a href="https://myenergi.com/product/zappi/" ><strong>here</strong></a></li> -->
+            </ul>
+            <div class="btn-wrap">
+              <a href="https://costelloes-ev.mybigcommerce.com/hypervolt-7kw-smart-charger-5m-tether/" class="btn-buy">Shop</a>
+            </div>
+          </div>
+      </div> 
+
+      <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+        <div class="box featured">
+          <h3>Zappi</h3>
+          <!-- <h4><sup>£</sup>29<span> / total</span></h4> -->
+          <ul>
+            <li>
+              <li><div class="wrapper">
+                <img src="./assets/img/products/Zappi_White.png" alt="My Image" class="centering_">
+              </div></li>
+
+              <li>7kw EV Charger with Hub and Standard Installation</li>
+          </li>
+            <!-- <li>Fi <a href="https://myenergi.com/product/zappi/" ><strong>here</strong></a></li> -->
+          </ul>
+          <div class="btn-wrap">
+            <a href="https://costelloes-ev.mybigcommerce.com/zappi-7kw-ev-charger/" class="btn-buy">Shop</a>
+          </div>
+        </div>
+      </div> 
+
+      <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+        <div class="box featured">
+          <h3>Easee One</h3>
+          <!-- <h4><sup>£</sup>29<span> / total</span></h4> -->
+          <ul>
+            <li>
+              <li><div class="wrapper">
+                <img src="./assets/img/products/Easee_Black.png" alt="My Image" class="centering_">
+              </div></li>
+
+              <li>Fully dynamic charging power 1.4–7.4 kW</li>
+          </li>
+            <!-- <li>Fi <a href="https://myenergi.com/product/zappi/" ><strong>here</strong></a></li> -->
+          </ul>
+          <div class="btn-wrap">
+            <a href="https://costelloes-ev.mybigcommerce.com/easee-one/" class="btn-buy">Shop</a>
+          </div>
+        </div>
+      </div> 
+
+
+
+        <!-- Extra bits stored in changelog -->
+      </div>
+    </section>

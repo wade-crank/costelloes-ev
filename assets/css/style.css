@@ -1198,8 +1198,8 @@ section {
   padding: 20px 15px;
   font-size: 16px;
   font-weight: 600;
-  color: #2c4964;
-  background: #f8f8f8;
+  color: #ffffff;
+  background: #5846f9;
 }
 
 .pricing h4 {
@@ -1293,8 +1293,31 @@ section {
   margin:0 auto;
   width: 2em; 
   height: 2em;/* how big your img is PX EM % etc */
-  text-align:center;
+  text-align:left;
 }
+
+.pricing .img-container {
+  margin-left: 20px;
+  transform: translateX(20px);
+  position: relative; left: 20px;
+}
+
+.custom-badge {
+  background-color: #5846f9 !important;
+  color: #5846f9;
+  font-size: 11px;
+  padding: 10px;
+  padding-left: 11px;
+  padding-right: 11px;
+  border-radius: 7px
+}
+
+.card {
+  border: none;
+  padding: 15px;
+  cursor: pointer
+}
+
 
 /* .pricing .wrapper .centering_ {background-image:url(../img/products/Black\ on\ Transparent.png);
   background-repeat:no-repeat;} */
