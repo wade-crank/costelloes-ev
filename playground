@@ -60,3 +60,292 @@
   </div>
 </div>
 </div> 
+
+
+
+<!-- <section id="faq" class="faq">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Frequently Asked Questions</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="faq-list">
+          <ul>
+            <li data-aos="fade-up" data-aos="fade-up" data-aos-delay="100">
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapse" href="#faq-list-1">Why are electric cars cheaper to maintain? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="faq-list-1" class="collapse show" data-parent=".faq-list">
+                <p>
+                  Electric cars are cheaper to maintain, no oil to change, no gaskets to replace, etc. Electric vehicles are generally more reliable if only because of the fewer moving parts. It means much lower maintenance costs.
+                </p>
+              </div>
+            </li>
+
+            <li data-aos="fade-up" data-aos-delay="200">
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-2" class="collapsed">Can you over charge your electric vehicle? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="faq-list-2" class="collapse" data-parent=".faq-list">
+                <p>
+                  Manufacturers have already built in precautions so you cannot overcharge, over-discharge, or over heat your electric vehicle.
+                </p>
+              </div>
+            </li>
+
+            <li data-aos="fade-up" data-aos-delay="300">
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-3" class="collapsed">How much will it cost to charge my EV at home? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="faq-list-3" class="collapse" data-parent=".faq-list">
+                <p>
+                  The average cost of charging an electric car at home is just £4 for 100 miles of charge – and you can use the Electric Highway charging points for 30p per kWh
+                </p>
+              </div>
+            </li>
+
+            <li data-aos="fade-up" data-aos-delay="400">
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-4" class="collapsed">Do electric vehicles break down less? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="faq-list-4" class="collapse" data-parent=".faq-list">
+                <p>
+                  Since an electric motor is able to slow itself down, the use of brake pedals is reduced and brake pads and rotors last longer.
+                </p>
+              </div>
+            </li>
+
+            <li data-aos="fade-up" data-aos-delay="500">
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#faq-list-5" class="collapsed">Are EVs better for the enviroment? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="faq-list-5" class="collapse" data-parent=".faq-list">
+                <p>
+                    EVs have far lower carbon emissions than traditional petrol and diesel engines, which means they’re better for the environment. But they can even be zero emission if they’re powered by 100% green electricity.
+
+                    Plug-in Hybrid Electric Vehicle (PHEVs) have lower carbon emissions than traditional combustion engines, but they’re not as green as EVs.
+                </p>
+              </div>
+            </li>
+
+          </ul>
+        </div>
+
+      </div>
+    </section> -->
+
+    <div class="section-title">
+        <h2>Contact</h2>
+        <p>Costelloes believe the most important thing is to deliver a quality and dependable service that exceeds expectations.</p>
+        <br>
+        <p>We have many years of experience in delivering such a service and have a proven track record of being reliable, trustworthy, and producing work to a high standard through quality workmanship.</p>
+        <br>
+        <!-- <p>please select and hour that suits you and we'll be in contact. This is through a service called Calendly.</p> -->
+      </div>
+
+
+       <!-- ======= Portfolio Section ======= -->
+    <!-- <section id="portfolio" class="portfolio">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Portfolio</h2>
+          <p></p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-cars">Cars</li>
+              <li data-filter=".filter-installs">Installs</li>
+              <li data-filter=".filter-information">Information</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-installs">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/StoneHaus/TeslaWall.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>StoneHaus</h4>
+                <p>Installs</p>
+              </div>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/StoneHaus/TeslaWall.jpeg" data-gall="portfolioGallery" class="venobox" title="Tesla"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details - StoneHaus.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-installs">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/tesla_charge_1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Tesla</h4>
+                <p>Installs</p>
+              </div>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/tesla_charge_1.jpg" data-gall="portfolioGallery" class="venobox" title="Tesla"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details - Tesla Install.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-information">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/All_Cars_Supported.jpg" class="img-fluid" alt="Supported EV Chargers">
+              <div class="portfolio-info">
+                <h4>Supported Cars</h4>
+                <p>Cars</p>
+              </div>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/All_Cars_Supported.jpg" data-gall="portfolioGallery" class="venobox" title="Supported Cars"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details - Supported Cars.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-cars">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/van_car_charging.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>BMW</h4>
+                <p>Installs</p>
+              </div>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/van_car_charging.jpg" data-gall="portfolioGallery" class="venobox" title="Installs"><i class="bx bx-plus"></i></a>
+                <a href="" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-information">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/grant_funded_info.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Grant Funds</h4>
+                <p>Information</p>
+              </div>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/grant_funded_info.jpg" data-gall="portfolioGallery" class="venobox" title="Grant Funds"><i class="bx bx-plus"></i></a>
+                <a href="" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-information">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/podpoint_productinfo.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>Pod Point</h4>
+                <p>Information</p>
+              </div>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/podpoint_productinfo.jpg" data-gall="portfolioGallery" class="venobox" title="Pod Point"><i class="bx bx-plus"></i></a>
+                <a href="" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-information">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/solosmartcharger.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Solo Charger</h4>
+                <p>Information</p>
+              </div>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/solosmartcharger.jpg" data-gall="portfolioGallery" class="venobox" title="Solo Charger"><i class="bx bx-plus"></i></a>
+                <a href="" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-installs">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/costelloes_EV_van_side_left.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>EV Van</h4>
+                <p>Information</p>
+              </div>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/costelloes_EV_van_side_left.jpg" data-gall="portfolioGallery" class="venobox" title="EV Van"><i class="bx bx-plus"></i></a>
+                <a href="" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section> -->
+    <!-- End Portfolio Section -->
+
+    <!-- <div class="row">
+
+          <div class="col-lg-6 ">
+            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+          </div>
+
+          <div class="col-lg-6">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="form-row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <div class="validate"></div>
+                </div>
+                <div class="col-md-6 form-group">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                  <div class="validate"></div>
+                </div>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                <div class="validate"></div>
+              </div>
+              <div class="form-group">
+                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                <div class="validate"></div>
+              </div>
+              <div class="mb-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+          </div>
+
+        </div> -->
+
+         <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">SUBMIT AN ENQUIRY</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <!-- <div class="row">
+            <div class="col-md-4" <button> <a href="https://app.ev-comply.com/auth/company-customer-enquiry/15b1ed2b-5908-42ee-bbfb-e533633542b8" class="btn btn-primary" role="button" aria-pressed="true">OZEV FORM</a></button></div>
+            <div class="col-md-4 ml-auto" <button> <a href="https://app.ev-comply.com/auth/company-customer-enquiry/da52276b-00a6-4358-a081-6a1a1ecf968d" class="btn btn-primary" role="button" aria-pressed="true">WORKPLACE FORM</a></button></div>
+          </div> -->
+
+          <div class="row">
+            <div class="col-sm-9">
+              Type of enquiry?
+              <div class="row">
+                <div class="col-8 col-sm-6">
+                  <button> <a href="https://app.ev-comply.com/auth/company-customer-enquiry/15b1ed2b-5908-42ee-bbfb-e533633542b8" class="btn btn-primary" role="button" aria-pressed="true">HOME</a></button>
+                </div>
+                <div class="col-4 col-sm-6">
+                  <button> <a href="https://app.ev-comply.com/auth/company-customer-enquiry/da52276b-00a6-4358-a081-6a1a1ecf968d" class="btn btn-primary" role="button" aria-pressed="true">WORKPLACE</a></button>
+                </div>
+              </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+          <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Save changes</button> -->
+        </div>
+      </div>
+    </div>
+  </div>
